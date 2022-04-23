@@ -1,1 +1,5 @@
 # CS-330
+
+To write a program that would allow for the program to be maintainable would be making sure that the program is writen in a clear and concise method. One way to do this would be to use the CRUD method to maintain the systems. This will allow for the system to be managed in a manner that anyone can follow. Also making sure that the code is properly anotated will result in a more functional and flexable system.
+I approach problem as a computer science by understanding what the overall goals are and what the end user is asking of the system. This allows for systems to be writen correctly and overall accomplish their goals. This project is different because there are seperate programs for the data bases and the dash board. The approach for these prgrams is different because all of the individual programs need to talk to one another.
+Computer scientists need to be flexable and adaptable to create programs that will meet the needs of the client for the long term. This project would help a company by creating a flexable data base that can be edited and create many different functions while maintaining its security.
